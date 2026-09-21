@@ -1,3 +1,3 @@
-function encender(){
+function Saludar(){
     return alert("Hola, Mundo")
 }
